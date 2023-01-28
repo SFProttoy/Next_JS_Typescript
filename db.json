@@ -1,0 +1,19 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Programming",
+      "desc": "A programming language is a system of notation for writing computer programs. Most programming languages are text-based formal languages"
+    },
+    {
+      "id": 2,
+      "title": "Nature",
+      "desc": "Nature, in the broadest sense, is the physical world or universe. Nature can refer to the phenomena of the physical world, and also to life in general."
+    },
+    {
+      "id": 3,
+      "title": "Books",
+      "desc": "A book is a medium for recording information in the form of writing or images, typically composed of many pages bound together and protected by a cover."
+    }
+  ]
+}

@@ -24,10 +24,10 @@ type Blogs = [
 ];
 
 export const getStaticProps: GetStaticProps<{
-  blogList: Blogs[];
+  blogList: Blogs;
 }> = async () => {
   const res = await fetch("http://localhost:4000/blogs");
-  const blogList: Blogs[] = await res.json();
+  const blogList: Blogs = await res.json();
 
   return {
     props: {

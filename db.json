@@ -15,5 +15,23 @@
       "title": "Books",
       "desc": "A book is a medium for recording information in the form of writing or images, typically composed of many pages bound together and protected by a cover."
     }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "title": "Phone",
+      "price": 10000
+    },
+    {
+      "id": 2,
+      "title": "Laptop",
+      "price": 70000
+    },
+    {
+      "id": 3,
+      "title": "Mouse",
+      "price": 500
+    }
   ]
 }
